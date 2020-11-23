@@ -1,0 +1,38 @@
+body,html{
+    align-items: center;
+    background-color: aquamarine;
+}
+.main-form{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.txt-box{
+    border-radius: 20px;
+    height: 30px;
+    border-color: red;
+    background-color: aquamarine;
+}
+.btn{
+    text-align: center;
+    border-color: red;
+    border-radius: 10px;
+    height: 25px;
+    width: 70px;
+    background-color: aquamarine;
+}
+.row{
+    margin-top: 20px;
+}
+
+p{
+    align-items: center;
+    background-color: lightgrey;
+  width: 300px;
+  border: 5px solid green;
+  padding: 10px;
+  margin-left: 215px;
+  margin-top: 40px;
+  font-family:'Times New Roman';
+}
